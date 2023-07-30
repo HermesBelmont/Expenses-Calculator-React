@@ -1,3 +1,3 @@
-# Expenses-Calculator-React
+# Expenses_Calculator_React
 
 Expenses Tracker
